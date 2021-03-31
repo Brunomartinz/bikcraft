@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Bikcraft" title="Bikcraft" src="./img/bikcraft.svg" width="120px" />
+    <img alt="Bikcraft" title="Bikcraft" src="./web/img/bikcraft.svg" width="120px" />
 </h1>
 
 <br>
@@ -8,7 +8,7 @@
 
 <br>
 
-> Status do Projeto: Concluido :heavy_check_mark:
+> Status do Projeto: Em andamento :heavy_check_mark:
 
 <br>
 
