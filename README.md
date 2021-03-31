@@ -11,7 +11,7 @@ Tools : HTML5 , CSS3 e Javascript
 <br>
 
 
-> Status do Projeto: Concluido :heavy_check_mark:
+> Status do Projeto: Em Progresso :heavy_check_mark:
 
 <br>
 
