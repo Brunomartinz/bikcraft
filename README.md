@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Bikcraft" title="Bikcraft" src="./img/bikcraft.svg" width="120px" />
+    <img alt="Bikcraft" title="Bikcraft" src="./web/img/bikcraft.svg" width="120px" />
 </h1>
 
 <br>
