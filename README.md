@@ -8,7 +8,7 @@
 
 <br>
 
-> Status do Projeto: Concluido :heavy_check_mark:
+> Status do Projeto: Em andamento :heavy_check_mark:
 
 <br>
 
