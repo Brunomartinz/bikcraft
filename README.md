@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="./img/DOC/Bikcraft Mockup.png">
+<img src="./web/img/DOC/Bikcraft Mockup.png">
 
 <br>
 
